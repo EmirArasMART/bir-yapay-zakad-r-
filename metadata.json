@@ -1,0 +1,7 @@
+{
+  "name": "Kanka AI",
+  "description": "Samimi ve uzman yapay zeka arkadaşınız - Kod yazma, anlık bug çözümü ve akıllı sohbet asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
